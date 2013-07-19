@@ -379,6 +379,8 @@ iframe {
   border: 1px solid $gray-1;
   @include box-sizing(border-box);
   margin-left: -5%;
+  /*@include scale(0.5);
+  @include transform-origin(0 0);*/
 }
 
 dt {
