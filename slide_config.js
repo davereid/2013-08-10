@@ -4,8 +4,8 @@ var SLIDE_CONFIG = {
     title: "Current state of File Entity<br>and Media 2.x",
     //subtitle: 'Subtitle Goes Here',
     eventInfo: {
-      title: 'Twin Cities DrupalCamp 2013',
-      date: '2013-07-19'
+      title: 'DrupalCorn 2013',
+      date: '2013-08-10'
     },
     useBuilds: true, // Default: true. False will turn off slide animation builds.
     usePrettify: true, // Default: true
